@@ -1,7 +1,7 @@
 print("hello world")
-def add(a, b, C):
-    return a + b + C
-print(add(2, 3, 4))
+def add(a, b, D):
+    return a + b + D
+print(add(2, 3,7))
 print("This is a test file in the main directory.")
 
 def subtract(a, b):
