@@ -6,3 +6,4 @@ print("This is a test file in the main directory.")
 
 def subtract(a, b):
     return a - b
+print ("Wow")
