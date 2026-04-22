@@ -1,6 +1,6 @@
 print("hello world")
-def add(a, b):
-    return a + b
+def add(a, b, D):
+    return a + b + D
 print(add(2, 3))
 print("This is a test file in the main directory.")
 
